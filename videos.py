@@ -27,11 +27,7 @@ st.markdown(
     """
 <style>
 [data-testid="stMetricValue"] {
-    font-size: 50px;
-}
-[data-testid="stMarkdownContainer"] > p {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 40px;
 }
 </style>
 """,
